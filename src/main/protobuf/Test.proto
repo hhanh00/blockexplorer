@@ -1,0 +1,5 @@
+package hanh.com;
+
+message Mess {
+	required string i = 1;
+}
